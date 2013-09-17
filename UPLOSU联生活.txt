@@ -1,0 +1,47 @@
+captain ningxin
+
+
+59.175.137.103:1521/syl
+
+
+ufun ufun888
+
+
+shopcoupon下的addcoupon页面和shopcouponupdate页面仔
+
+BLOB
+
+
+http://localhost/addshopcoupon!getShopById?id=104210
+
+http://localhost/addshopcoupon!getShopById?id=103493
+
+http://localhost/addshoptuangou!getShopById?id=103493
+
+
+
+http://localhost/addshoptuangou!getShopPosAjax?shopids=103492,103491
+
+
+http://localhost/upateshoptuangou!update?id=104252&tgid=24
+
+
+http://localhost/upateshoptuangou!update?id=104068&pageCouponListNum.pageIndex=1
+
+
+团购的
+
+优惠券 表
+
+COU_GIFTS_ID  团购套餐  0-9参数
+
+
+A-9
+A-9 不可以存在的
+
+店铺是否存在
+
+
+
+
+
